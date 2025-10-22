@@ -1,4 +1,5 @@
 # CP/M `ED` - Command Reference & Sample Workflows (CORRECTED)
+*Edited by Gabe Cohen*
 
 ## Commands & Notes
 
